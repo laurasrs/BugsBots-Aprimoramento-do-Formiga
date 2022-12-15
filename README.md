@@ -8,10 +8,10 @@
 
 
 ## Alunos:
-* **Caique** *N° USP: 4822582* 
+* **Caique** *N° USP: ????????* 
 * **Cristina Luciana Rodrigues Saraiva Leão** *N° USP: 10716696* 
-* **João** *N° USP: 10308798* 
-* **Laura** *N° USP: 10308798* 
+* **João** *N° USP: ????????* 
+* **Laura** *N° USP: ????????* 
 * **Natthan Wictor de Camargo** *N° USP: 11352702* 
 
 
@@ -22,7 +22,9 @@ Estima-se que existam cerca de 18.000 espécies de formigas no mundo, ao final d
 Desenvolver o acionamento e a coordenação de múltiplos servo atuadores de aeromodelismo para implementação do padrão de caminhada em um robô de seis pernas.
 
 ## Material e Método
-Utilizou-se um sistema de hardware já existente, o qual consiste em uma placa Toradex Colibri VF61 embarcada na Viola Carrier Board. Já o software adotado 
+  Utilizou-se um sistema de hardware, o qual consiste em uma placa Toradex Colibri VF61 embarcada na Viola Carrier Board e dois microcontroladores MBED LPC1768. Já o sistema operacional foi o Linux e a linguagem de programação C/C++. Além disso, foram usados dois servos motores em cada perna, totalizando doze (12) servo motores.
+
+
 
 
 # Desenvolvimento
