@@ -17,4 +17,5 @@
 
 
 # Introdução
-Estima-se que existam cerca de 18.000 espécies de formigas no mundo, ao final deste será possível dizer que existe uma espécie nova de formiga, a robótica. Por meio de softwares e hardwares computacionais e mecatrônicos foi desenvolvido um robô de seis pernas capaz de se locomover de forma autônoma. Para isso, foi feito o acionamento e coordenação de múltiplos servo atuadores de aeromodelismo para implementação do padrão de caminhada.
+Estima-se que existam cerca de 18.000 espécies de formigas no mundo, ao final deste será possível dizer que existe uma espécie nova de formiga, a robótica. Por meio de softwares e hardwares computacionais e mecatrônicos foi desenvolvido um robô de seis pernas capaz de se locomover de forma autônoma. A razão para desenvolver um robô hexapode é sua melhor movimentação em terrenos irregulares em comparação a mecanismos compostos por rodas.
+Para isso, foi feito o acionamento e coordenação de múltiplos servo atuadores de aeromodelismo para implementação do padrão de caminhada.
