@@ -8,7 +8,7 @@
 
 
 ## Alunos:
-* **Caique Augusto Cerqueira Dioceser** *N° USP: 4822582* 
+* **Caique Augusto Cerqueira Dioceser** align="center" *N° USP: 4822582* 
 * **Cristina Luciana Rodrigues Saraiva Leão** *N° USP: 10716696* 
 * **João Vítor Viana Falcão** *N° USP: 10308798* 
 * **Laura Queiroz Soares** *N° USP: 10308798* 
