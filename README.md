@@ -24,8 +24,6 @@ Desenvolver o acionamento e a coordenação de múltiplos servo atuadores de aer
 ## Material e Método
 Utilizou-se um sistema de hardware, o qual consiste em uma placa Toradex Colibri VF61 embarcada na Viola Carrier Board e dois microcontroladores MBED LPC1768. Já o sistema operacional foi o Linux e a linguagem de programação C/C++. Além disso, foram usados dois servos motores em cada perna, totalizando doze (12) servo motores.
 
-aaaa
-
 
 # Desenvolvimento
 ## Lógica
