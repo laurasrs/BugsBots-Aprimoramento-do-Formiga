@@ -8,21 +8,20 @@
 
 
 ## Alunos:
-* **Caique** *N° USP: ????????* 
+* **Caique** *N° USP: 4822582* 
 * **Cristina Luciana Rodrigues Saraiva Leão** *N° USP: 10716696* 
-* **João** *N° USP: ????????* 
-* **Laura** *N° USP: ????????* 
+* **João** *N° USP: 10308798* 
+* **Laura** *N° USP: 10308798* 
 * **Natthan Wictor de Camargo** *N° USP: 11352702* 
 
 
 # Introdução
 Estima-se que existam cerca de 18.000 espécies de formigas no mundo, ao final deste será possível dizer que existe uma espécie nova de formiga, a robótica. Por meio de softwares e hardwares computacionais e mecatrônicos foi desenvolvido um robô de seis pernas capaz de se locomover de forma autônoma. A razão para o desenvolvimento de um robô hexapode é sua facilidade de locomoção em terrenos irregulares, se mantendo mais estável do que em comparação com dispositívos de aplicação parecidas compostos por rodas.
+Para isso, foi feito o acionamento e coordenação de múltiplos servo atuadores de aeromodelismo para implementação do padrão de caminhada.
 
 ## Objetivo
-Desenvolver o acionamento e a coordenação de múltiplos servo atuadores de aeromodelismo para implementação do padrão de caminhada em um robô de seis pernas.
 
-## Material e Método
-Utilizou-se um sistema de hardware, o qual consiste em uma placa Toradex Colibri VF61 embarcada na Viola Carrier Board e dois microcontroladores MBED LPC1768. Já o sistema operacional foi o Linux e a linguagem de programação C/C++. Além disso, foram usados dois servos motores em cada perna, totalizando doze (12) servo motores.
+## Materiais e Método
 
 
 # Desenvolvimento
@@ -36,4 +35,10 @@ Utilizou-se um sistema de hardware, o qual consiste em uma placa Toradex Colibri
 # Resultados
 
 
+
+
+https://user-images.githubusercontent.com/119769311/207929278-49757a03-1344-43cc-b3e8-d8f8e010702f.mp4
+
+
 # Conclusão
+
