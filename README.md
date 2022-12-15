@@ -37,7 +37,11 @@ Para isso, foi feito o acionamento e coordenação de múltiplos servo atuadores
 
 
 
-https://user-images.githubusercontent.com/119769311/207929278-49757a03-1344-43cc-b3e8-d8f8e010702f.mp4
+
+
+
+https://user-images.githubusercontent.com/119769311/207929898-81dae449-8cf5-42a6-8e74-0f024d8560f7.mp4
+
 
 
 # Conclusão
